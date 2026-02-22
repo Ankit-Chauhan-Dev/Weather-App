@@ -41,11 +41,10 @@ The app fetches real-time weather data from a public Weather API and displays cu
 
 ## 📂 Project Structure
 weather-app/
-│
-├── index.html
-├── style.css
-├── script.js
-└── screenshot.png
+  index.html
+    style.css
+      script.js
+        screenshot.png
 
 
 ---
