@@ -6,7 +6,7 @@ The app fetches real-time weather data from a public Weather API and displays cu
 ---
 
 ##  Live Demo
-🔗 https://Ankit-Chauhan-Dev.github.io/weather-app/
+🔗 https://ankit-chauhan-dev.github.io/Weather-App/
 
 ---
 
